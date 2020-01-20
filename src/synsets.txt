@@ -1,0 +1,13 @@
+0,numberzero zero,def
+1,numberone one,def
+2,numbertwo two,def
+3,numberthree three,def
+4,numberfour four,def
+5,numberfive five,def
+6,numbersix six,def
+7,numberseven,def
+8,numbereight,def
+9,numbernine,def
+10,numberten,def
+11,numbereleven,def
+12,numbertwelve,def
